@@ -1,3 +1,3 @@
 # ozlmdmrl-kullanici-form
 
-HTML ve CSS kullanılarak basit kullanıcı formu oluşturdum.
+HTML ve CSS kullanarak basit kullanıcı formu oluşturdum.
