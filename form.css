@@ -1,0 +1,57 @@
+form{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 400px;
+    background-image: linear-gradient(to right, rgb(129, 125, 125) , rgb(178, 222, 230));
+    margin: auto;
+    margin-top: 50px;
+    align-items: center;
+}
+
+img{
+    margin-top: 20px;
+    width: 80px;
+    height: 80px;
+}
+
+input{
+    margin-top: 10px;
+    width: 60%;
+    padding: 10px;
+    border: none;
+    outline: none;
+}
+
+body{
+    background-color:rgb(9, 48, 59);
+}
+
+h1{
+    color: white;
+    font-family: sans-serif;
+}
+
+.login{
+    width: 25%;
+    background-color: darkgray;
+    color: white;
+    font-weight: bold;
+}
+
+.login:hover{
+    cursor: pointer;
+    background-color: rgb(9, 48, 59);
+}
+
+.signup{
+    width: 25%;
+    background-color: darkgray;
+    color: white;
+    font-weight: bold;
+}
+
+.signup:hover{
+    cursor: pointer;
+    background-color: rgb(9, 48, 59);
+}
